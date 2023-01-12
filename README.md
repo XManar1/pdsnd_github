@@ -25,3 +25,6 @@ Jet is a version management computer program. It is one of the distributed revis
 1- python 
 C
 C++
+
+# thankfulness
+Thanks to every staff Udacity 
