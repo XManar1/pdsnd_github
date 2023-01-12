@@ -85,7 +85,7 @@ def station_stats(df):
 
 def printinfo():
     print ("Manar")
-    
+    print("Information system")
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
