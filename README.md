@@ -26,5 +26,8 @@ Jet is a version management computer program. It is one of the distributed revis
 C
 C++
 
+# Udacity
+Audacity is a for-profit educational organization founded by Sebastian Thrun, David Stavins, and Mike Sokolsky. This is to offer a massive open online course. According to Thran, the origin of the name "Audacity" comes from the company's desire to be "bold for you, the student."
+
 # thankfulness
 Thanks to every staff Udacity 
