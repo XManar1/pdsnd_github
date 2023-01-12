@@ -19,3 +19,9 @@ It's important to give proper credit. Add links to any repo that inspired you or
 Thank you 
 
 # git 
+Jet is a version management computer program. It is one of the distributed revision management programs. It was programmed to be fast at the beginning. Linus Torvalds programmed it to use it in developing the Linux kernel and to bypass the defects and problems of other version management programs. Junio Hamano later joined him. Jet is free and open source software released under the GNU General Public License Version 2
+
+# programming languages
+1- python 
+C
+C++
