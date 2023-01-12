@@ -28,7 +28,8 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+def GPA()
+print("5 out of 5")
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
